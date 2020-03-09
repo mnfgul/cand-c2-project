@@ -1,0 +1,17 @@
+**/.DS_Store
+
+# editor config
+.vscode
+
+#tmp folder
+*/tmp/*
+
+# Local .terraform directories
+*/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
